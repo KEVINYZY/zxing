@@ -88,3 +88,5 @@ on StackOverflow](https://stackoverflow.com/questions/tagged/zxing).
 QR code is trademarked by Denso Wave, inc. Thanks to Haase & Martin OHG for contributing the logo.
 
 Optimized with [![JProfiler](https://www.ej-technologies.com/images/banners/jprofiler_small.png)](https://www.ej-technologies.com/products/jprofiler/overview.html)
+
+zd
